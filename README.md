@@ -57,3 +57,7 @@ Managed links:
 
 - `nvim/README.md`
 - `nvim/USER_GUIDE.md`
+
+## tmux Docs
+
+- `tmux/USER_GUIDE.md`

@@ -1,0 +1,29 @@
+# Shell runtime artifacts
+zsh/.zhistory
+zsh/.zcompdump
+zsh/.zcompdump-*
+zsh/.zsh_sessions/
+
+# Neovim / editor transient files
+*.swp
+*.swo
+*~
+.netrwhist
+Session.vim
+
+# Backup / patch leftovers
+*.bak
+*.bak.*
+*.orig
+*.rej
+
+# Generated tags
+tags
+
+# Local scratch and logs
+*.tmp
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db
